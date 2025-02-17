@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # إعداد الصفحة
 st.set_page_config(page_title="🚗 الرياض.. قلب سوق السيارات المستعملة في المملكة!", layout="wide")
